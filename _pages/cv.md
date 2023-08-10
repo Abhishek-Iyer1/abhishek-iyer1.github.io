@@ -201,7 +201,7 @@ Duties:      -->
         </div>
     </div>
     <div class="row">
-        <div class="column" style="background-color:#ffffff;">
+        <div class="column" style="background-color:#ffffff; width:60%;">
           <body style="font-size: 18px;"><i>Supervisors: <a href="https://www.jku.at/en/institute-of-computer-graphics/about-us/team/oliver-bimber/" title="Prof. Oliver Bimber, Institute of Computer Graphics, JKU">Prof. Oliver Bimber</a> and <a href="https://www.bits-pilani.ac.in/pilani/shishirmaheshwari/Profile" title="Prof. Shishir Maheshwari, BITS Pilani">Prof. Shishir Maheshwari</a></i></body> 
         </div>
     </div>
@@ -416,7 +416,7 @@ Duties:      -->
     </div>
     <div class="row">
         <div class="column" style="background-color:#ffffff;">
-          <body style="font-size: 18px;"><i>Supervisors: <a href="https://www.bits-pilani.ac.in/pilani/meethashenoy/profile/" title="Prof. Meetha Shenoy, BITS Pilani">Prof. Meetha Shenoy</a></i></body> 
+          <body style="font-size: 18px;"><i>Supervisors: <a href="https://www.bits-pilani.ac.in/pilani/meethashenoy/profile" title="Prof. Meetha Shenoy, BITS Pilani">Prof. Meetha Shenoy</a></i></body> 
         </div>
     </div>
  </body>
