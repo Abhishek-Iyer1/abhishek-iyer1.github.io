@@ -6,14 +6,52 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Download PDF Version [here](http://abhishek-iyer1.github.io/files/cv-iyer-abhishek.pdf).
+Download PDF Version [here](http://abhishek-iyer1.github.io/files/resume.pdf).
 
 {% include base_path %}
 ---
 # Education
 
-* B.E. in Electrical and Electronics Engineering from Birla Institute of Technology and Science, Pilani, Pilani Campus (**BITS Pilani**), 2022
+<html>
+ <head>
+    <style>
+    {
+        box-sizing: border-box;
+    }
+    /* Set additional styling options for the columns*/
+    .column {
+    float: left;
+    width: 50%;
+    }
 
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+    </style>
+ </head>
+ <body>
+    <div class="row">
+        <div class="column" style="background-color:#ffffff;">
+            <body style="font-size: 18px"><b>Birla Institute of Technology and Science, Pilani</b></body>
+        </div>
+        <div class="column" style="background-color:#ffffff; text-align: right">
+            <body style="font-size: 18px;">Pilani Campus, India | 07.2018 - 05.2022</body>
+        </div>
+    </div>
+    <div class="row">
+        <div class="column" style="background-color:#ffffff;">
+          <body style="font-size: 18px;"><i>B.E Electrical and Electronics </i></body> 
+        </div>
+    </div>
+ </body>
+</html>
+
+<!-- * B.E. in Electrical and Electronics Engineering from Birla Institute of Technology and Science, Pilani, Pilani Campus (**BITS Pilani**), 2022 -->
+
+* Major GPA: 8.51/10
+* Bachelor Thesis: Transformer based Object detection on Images collected using Airbone Optical Sectioning for Forest Search and Rescue
 * Courses of Note: Neural Networks and Fuzzy Logic, Digital Design, Internet of Things, Digital Image Processing, Control Systems
 
 ---
@@ -161,7 +199,9 @@ Duties:      -->
  </body>
 </html>
 
-  * Our team was researching the topic of medical image classification of low-resolution images using a combination of super-resolution and techniques based on vision transformers.
+  * The team was researching novel techniques to denoise low-resolution computed tomography(CT) scans
+  * Our novel architecture is composed of an encoder-decoder network using transformer blocks, Sobel-Feldman operators for edge enhancement, and residual learning. 
+  * The architecture achieved state-of-the-art results on the AAPM-Mayo Clinic Low-Dose CT Ground Challenge dataset.
 
 <hr>
 <!-- **Computer Vision Research Society (CVRS)**, Team Lead ([website](https://sites.google.com/view/thecvrs))
@@ -538,9 +578,18 @@ Duties:      -->
 
 <hr>
 
+# Courses
+
+**Deep Learning Specialization**, *Coursera*\
+Concepts Covered : Multilayer Perceptron, Convolutional Neural Networks (CNNs), Long Short Term Memory (LSTMs), Bi-directional LSTMs, L1/L2 Loss, RMSE, Hyperparameter Tuning, Regularization, RMSProp, ADAM, Batch Gradient Descent, Transfer Learning.
+
+**ROS2**, *The Construct*\
+Concepts Covered: Concepts Covered: Nodes, Messages, Services, Actions, Topics, Publishers, Subscribers, Callback Groups, Multi-Threading, Launch Files, Rviz.
+<hr>
+
 # Position Of Responsibility
 
-**Core Member**, Department of Sponsorship and Marketing, BOSM
+**Core Member**, *Department of Sponsorship and Marketing, BOSM*
   * As a core member of the sports festival at BITS Pilani, my responsibilities included mentoring a team of juniors, allocating tasks, and negotiation with industry professionals.
   * This role had me pitching ideas on the spot to many industry professionals, and networking in order to get successful deals.
   * This experience has enabled me to become a more hands-on mentor, a confident speaker, and granted me longer foresight.

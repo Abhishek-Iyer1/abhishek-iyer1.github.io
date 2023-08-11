@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Abhishek's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Abhishek Iyer"
 description              : &description "<Enter Description Here>"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Abhishek Iyer"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "profile.jpg"
+  bio              : "SDE@Design.AI | B.E in EEE from BITS Pilani, Pilani Campus | Interested in everything Robotics and Machine Learning."
   location         : "Ahmedabad, India"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
