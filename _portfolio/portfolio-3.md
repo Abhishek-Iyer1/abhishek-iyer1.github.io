@@ -4,7 +4,7 @@ excerpt: "Attempting to solve the issue of correctly identifying your current dr
 collection: portfolio
 ---
 
-To reach a state where autonomous public transport and personal vehicles are reliably operating, there are still many challenges to be tackled. Here we take a look at the most fundamental problem in order to get from a start point to an end point autonomously - detecting the lane we need to be in. 
+<p class="special">To reach a state where autonomous public transport and personal vehicles are reliably operating, there are still many challenges to be tackled. Here we take a look at the most fundamental problem in order to get from a start point to an end point autonomously - detecting the lane we need to be in.</p>
 
 <style>
     .body {
@@ -31,7 +31,7 @@ To reach a state where autonomous public transport and personal vehicles are rel
         /* background-color: green; */
     }
 
-    div {
+    .special {
         text-align: justify;
         text-justify: inter-word;
     }
@@ -43,7 +43,7 @@ To reach a state where autonomous public transport and personal vehicles are rel
     <div style="width: 70%; height: 70%; padding-top: 20px; padding-bottom: 20px; margin-left: 7.5vw;">
         <iframe width="340" height="191" src="https://www.youtube.com/embed/SW2Bq2x6ThA?autoplay=1&mute=1" title="Lane Segmentation | U-Net" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
-    <div>
+    <div class="special">
         <body>The aim of this task is to segment the current driving lane successfully. We employ a U-Net architecture with an encoder and a decoder which outputs the segmented mask, given an input image. After training the model locally, we find that it is able to predict very well on unseen images. The mean Intersection over Union (IoU) on 6.7k test images is approximately 92% which suggests that on most of the roads in out dataset, the model is able to perform sufficiently well. This is also reflected in the above video. </body>
     </div>
 </body>
@@ -55,8 +55,8 @@ To reach a state where autonomous public transport and personal vehicles are rel
         <iframe width="1051" height="591" src="https://www.youtube.com/embed/qoTipmQLzLk?autoplay=1&mute=1" title="Lane Segmentation (Challenge)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
     <!-- Put second content here -->
-    <p>On analyzing this particularly challenging video, we see multiple issues during prediction of the current lane. We notice that the U-Net model is only able to predict short distances accurately when the road contains extreme bends. It struggles to make continuous predictions when the road switches between shady and sunny. When the sun causes flashes of light, the onboard camera takes a second to adjust, overexposing the footage.</p>
-    <p>We can make improvements in the future to tackle these issues. To name a few, we can augment the dataset with incorrectly exposed footage for robustness. Furthermore, we can incorporate a temporal block to the archtecture to predict changes in the road bend based on its recent history.</p>
+    <p class="special">On analyzing this particularly challenging video, we see multiple issues during prediction of the current lane. We notice that the U-Net model is only able to predict short distances accurately when the road contains extreme bends. It struggles to make continuous predictions when the road switches between shady and sunny. When the sun causes flashes of light, the onboard camera takes a second to adjust, overexposing the footage.</p>
+    <p class="special">We can make improvements in the future to tackle these issues. To name a few, we can augment the dataset with incorrectly exposed footage for robustness. Furthermore, we can incorporate a temporal block to the archtecture to predict changes in the road bend based on its recent history.</p>
 </body>
 
 <body><b>Techonologies: </b> Python, Jupyter Notebooks, Tensorflow, OpenCV, Numpy</body>
