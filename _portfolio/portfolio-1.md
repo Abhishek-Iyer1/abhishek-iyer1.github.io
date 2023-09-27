@@ -1,7 +1,30 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Figma Creative Assistant"
+excerpt: "During my time at Aalto University, one of my main tasks was researching and developing a tool to assist UI designers explore color harmony. We used deep learning saliency models to extract colors from the focal points to build a palette around, which was extended using Monte Carlo Tree Search. The tool employed multiple assignment algorithms and heuristics in order to ensure light-dark variations, minimum contrast levels for accessibility, and a thorough user study. The tool was created as a plugin on the popular designing platform - Figma.<br/><img src='/images/colorize_sample.png'>"
 collection: portfolio
 ---
+<style>
+    div {
+        text-align: justify;
+        text-justify: inter-word;
+    }
+</style>
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+### Demonstration and Discussion
+
+<div style="width: 70%; height: 70%; padding-top: 20px; padding-bottom: 20px; margin-left: 7.5vw;">
+    <iframe width="1051" height="591" src="https://www.youtube.com/embed/f_V3fEX8f7s?autoplay=1&mute=1" title="Figma Creative Assistant - An Interactive Coloring Tool" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+A crucial step of the designing process is Rapid Prototyping. Building high fidelity mockups quickly can become tedious. The plugin is designed with this in mind and aims to be a faithful creative assistant to the designer. It allows for rapid exploration of color palettes inspired from a focal object, often times a product in marketing material. It even allows modification of generated color palettes in order to quickly generate finer variations in the UI. We believe the designer should always be in control and to that extent, while the plugin uses Artificial Intelligence, algorithms and heuristics for separate steps of the coloring process, the designer can guide the plugin to create their desired output. This significantly reduces the time of the rapid prototyping stage.
+
+The different stages of this process are as follows:
+- **Color Extraction**: Automatically detecting the focal image, and using an enhanced Median Color Quantization algorithm to pick key colors
+- **Palette Extension**: Using Monte Carlo Tree Search and Gaussian Mixture Models, we extend the palette with missing colors to create a harmony of complementing colors
+- **Color Assignment**: Assigning the colors from the palette to different layers of the UI design
+- **Ensuring Visual Coherence**: Checking certain metrics such as contrast, warm-cool combinations, luminance variations to ensure an appealing end result.
+
+<body><b>Technologies: </b> Python, TypeScript, Pytorch, Numpy, Figma API</body>
+
+**Publication:** [Link](https:abhishek-iyer1.github.io/publication/2023-cocolor-interactive-exploration-of-color-designs)\
+**GitHub Code Repository:** Private Repository
