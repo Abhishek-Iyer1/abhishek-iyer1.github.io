@@ -32,7 +32,7 @@ The different features offered by Design.AI are as follows:
 <p class="special">Professional UI/UX designers and their feedback has been integral in creating this tool. It has been an iterative process to ensure that we are actually able to deliver the value we believe this tool will provide. Multinational brands like H&M and Kone have taken interest in this tool. The company website can be found below.</p>
 
 
-<body><b>Technologies: </b> Python, TypeScript, React, SQL, Kubernetes, Docker, Microsoft Azure, Pytorch, HTML, CSS, Figma API</body>
+<body><b>Technologies: </b> Python, Pytorch, TypeScript, React, SQL, Kubernetes, Docker, Microsoft Azure, HTML, CSS, Figma API</body>
 
 **Company Website:** [Link](https://designai.aalto.fi)\
 **GitHub Code Repository:** Private Repository

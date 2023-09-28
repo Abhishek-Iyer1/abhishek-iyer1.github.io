@@ -26,7 +26,7 @@ The different stages of this process are as follows:
     <li class="special"><b>Ensuring Visual Coherence</b>: Checking certain metrics such as contrast, warm-cool combinations, luminance variations to ensure an appealing end result.</li>
 </ul>
 
-<body><b>Technologies: </b> Python, TypeScript, Pytorch, Numpy, Figma API</body>
+<body><b>Technologies: </b> Python, Pytorch, Numpy, TypeScript, Figma API</body>
 
 **Publication:** [Link](https:abhishek-iyer1.github.io/publication/2023-cocolor-interactive-exploration-of-color-designs)\
 **GitHub Code Repository:** Private Repository
