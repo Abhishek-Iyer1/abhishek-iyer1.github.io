@@ -17,7 +17,7 @@ permalink: /publication/2022-cnn-and-lstm-based-ensemble-learning-for-human-emot
 # for emotion classification. The experimental results indicate that the proposed approach is
 # effective and yields better performance than the compared methods for EEG-based emotion
 # analysis'
-date: 2023-04-11
+date: 2023-02-11
 venue: 'Multimedia Tools and Applications Journal'
 paperurl: 'http://abhishek-iyer1.github.io/files/paper2.pdf'
 citation: '<b>Iyer, A.</b>, Das, S.S., Teotia, R. et al. CNN and LSTM based ensemble learning for human emotion recognition using EEG recordings. Multimed Tools Appl 82, 4883–4896 (2023). https://doi.org/10.1007/s11042-022-12310-7'

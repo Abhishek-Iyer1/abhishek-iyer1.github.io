@@ -17,10 +17,10 @@ permalink: /publication/2023-cocolor-interactive-exploration-of-color-designs
 # incorporated into the popular design tool Figma and evaluated in a study 
 # with 16 designers. Participants explored the coloring options more easily 
 # with CoColor and considered it helpful.'
-date: 2023-03-01
+date: 2023-03-27
 venue: 'ACM Conference on Intelligent User Interfaces (IUI)'
 paperurl: 'http://abhishek-iyer1.github.io/files/paper3.pdf'
-citation: 'Lena Hegemann, Niraj Dayama, <b>Abhishek Iyer</b>, Erfan Farhadi, Ekaterina Marchenko, Antti Oulasvirta. (2023). &quot;CoColor: Interactive Exploration of Color Designs.&quot; <i>ACM Conference on Intelligent User Interfaces (IUI)</i>. 1(3).'
+citation: "Lena Hegemann, Niraj Ramesh Dayama, <b>Abhishek Iyer</b>, Erfan Farhadi, Ekaterina Marchenko, and Antti Oulasvirta. 2023. CoColor: Interactive Exploration of Color Designs. In Proceedings of the 28th International Conference on Intelligent User Interfaces (IUI '23). Association for Computing Machinery, New York, NY, USA, 106–127. https://doi.org/10.1145/3581641.3584089"
 ---
 <div style="width: 70%; height: 70%; padding-top: 20px; padding-bottom: 20px; margin-left: 7.5vw;">
     <br/><img src='/images/paper3.png'>
@@ -53,6 +53,6 @@ with CoColor and considered it helpful.</p>
 
 [View paper here](http://abhishek-iyer1.github.io/files/paper3.pdf)
 
-Recommended Citation: Lena Hegemann, Niraj Dayama, <b>Abhishek Iyer</b>, Erfan Farhadi, Ekaterina Marchenko, Antti Oulasvirta. (2023). &quot;CoColor: Interactive Exploration of Color Designs.&quot; <i>ACM Conference on Intelligent User Interfaces (IUI)</i>. 1(3).
+Recommended Citation: Lena Hegemann, Niraj Ramesh Dayama, <b>Abhishek Iyer</b>, Erfan Farhadi, Ekaterina Marchenko, and Antti Oulasvirta. 2023. CoColor: Interactive Exploration of Color Designs. In Proceedings of the 28th International Conference on Intelligent User Interfaces (IUI '23). Association for Computing Machinery, New York, NY, USA, 106–127. [https://doi.org/10.1145/3581641.3584089](https://doi.org/10.1145/3581641.3584089)
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1). -->
