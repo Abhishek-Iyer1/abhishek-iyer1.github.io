@@ -11,10 +11,12 @@ permalink: /publication/2023-eformer-edge-enhancement-based-transformer-for-medi
 # approach, our model is evaluated on the AAPM-Mayo Clinic Low-Dose CT Grand Challenge Dataset and achieves 
 # state-of-the-art performance, i.e., 43.487 PSNR, 0.0067 RMSE, and 0.9861 SSIM. We believe that our work 
 # will encourage more research in transformer-based architectures for medical image denoising using residual learning.'
-date: 2023-10-01
+date: 2021-10-01
 venue: 'International Conference on Computer Vision (ICCV), Workshop'
 paperurl: 'http://abhishek-iyer1.github.io/files/paper4.pdf'
-citation: 'Achleshwar Luthra*, Harsh Sulakhe*, Tanish Mittal*, <b>Abhishek Iyer</b>, Santosh Yadav. (2023). &quot;Eformer: Edge Enhancement based Transformer for Medical Image Denoising.&quot; <i>International Conference on Computer Vision (ICCV), Workshop</i>. 1(4).'
+citation: 'Luthra A*, Sulakhe H*, Mittal T*, <b>Iyer A</b>, Yadav S. Eformer: Edge Enhancement based Transformer for Medical Image Denoising. 2021.  International Conference on Computer Vision, Workshop (2021). https://doi.org/10.48550/arXiv.2109.08044
+
+'
 ---
 <div style="width: 70%; height: 70%; padding-top: 20px; padding-bottom: 20px; margin-left: 7.5vw;">
     <br/><img src='/images/paper4.png'>
@@ -40,6 +42,7 @@ will encourage more research in transformer-based architectures for medical imag
 
 [View paper here](http://abhishek-iyer1.github.io/files/paper4.pdf)
 
-Recommended Citation: Achleshwar Luthra*, Harsh Sulakhe*, Tanish Mittal*, <b>Abhishek Iyer</b>, Santosh Yadav. (2023). &quot;Eformer: Edge Enhancement based Transformer for Medical Image Denoising.&quot; <i>International Conference on Computer Vision (ICCV), Workshop</i>. 1(4).
+Recommended Citation: Luthra A*, Sulakhe H*, Mittal T*, <b>Iyer A</b>, Yadav S. Eformer: Edge Enhancement based Transformer for Medical Image Denoising. 2021.  International Conference on Computer Vision, Workshop (2021). [https://doi.org/10.48550/arXiv.2109.08044](https://doi.org/10.48550/arXiv.2109.08044)
+
 
 <!-- Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->

@@ -17,10 +17,10 @@ permalink: /publication/2022-cnn-and-lstm-based-ensemble-learning-for-human-emot
 # for emotion classification. The experimental results indicate that the proposed approach is
 # effective and yields better performance than the compared methods for EEG-based emotion
 # analysis'
-date: 2022-04-11
+date: 2023-04-11
 venue: 'Multimedia Tools and Applications Journal'
 paperurl: 'http://abhishek-iyer1.github.io/files/paper2.pdf'
-citation: '<b>Abhishek Iyer</b>, Srimit Samkit Das, Reva Teotia, Shishir Maheshwari, Rishi Raj Sharma. (2022). &quot;CNN and LSTM based ensemble learning for human emotion recognition using EEG recordings.&quot; <i>Multimedia Tools and Applications Journal</i>. 1(2).'
+citation: '<b>Iyer, A.</b>, Das, S.S., Teotia, R. et al. CNN and LSTM based ensemble learning for human emotion recognition using EEG recordings. Multimed Tools Appl 82, 4883–4896 (2023). https://doi.org/10.1007/s11042-022-12310-7'
 ---
 <div style="width: 70%; height: 70%; padding-top: 20px; padding-bottom: 20px; margin-left: 7.5vw;">
     <br/><img src='/images/paper2.png'>
@@ -52,6 +52,7 @@ analysis.</p>
 
 [View paper here](http://abhishek-iyer1.github.io/files/paper2.pdf)
 
-Recommended Citation: <b>Abhishek Iyer</b>, Srimit Samkit Das, Reva Teotia, Shishir Maheshwari, Rishi Raj Sharma. (2022). &quot;CNN and LSTM based ensemble learning for human emotion recognition using EEG recordings.&quot; <i>Multimedia Tools and Applications Journal</i>. 1(2).
+Recommended Citation: 
+<b>Iyer, A.</b>, Das, S.S., Teotia, R. et al. CNN and LSTM based ensemble learning for human emotion recognition using EEG recordings. Multimed Tools Appl 82, 4883–4896 (2023). [https://doi.org/10.1007/s11042-022-12310-7](https://doi.org/10.1007/s11042-022-12310-7)
 
 <!-- Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3). -->

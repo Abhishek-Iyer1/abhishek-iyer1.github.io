@@ -19,7 +19,7 @@ permalink: /publication/2021-Modelling-simulation-and-implementation-of-pid-cont
 date: 2021-01-25
 venue: 'International Conference on Computer Communications and Informatics (ICCCI)'
 paperurl: 'http://abhishek-iyer1.github.io/files/paper1.pdf'
-citation: '<b>Abhishek Iyer</b>, Hari Om Bansal (2021). &quot;Modelling, Simulation, and Implementation of PID Controller on Quadrotors.&quot; <i>International Conference on Computer Communications and Informatics (ICCCI)</i>. 1(1).'
+citation: '<b>A. Iyer</b> and H. O. Bansal, "Modelling, Simulation, and Implementation of PID Controller on Quadrotors," 2021 International Conference on Computer Communication and Informatics (ICCCI), Coimbatore, India, 2021, pp. 1-7, doi: 10.1109/ICCCI50826.2021.9402301.'
 ---
 <div style="width: 70%; height: 70%; padding-top: 20px; padding-bottom: 20px; margin-left: 7.5vw;">
     <br/><img src='/images/paper1.png'>
@@ -49,5 +49,7 @@ and different PID controller tuning methods have been looked into for smoother c
 
 [View paper here](http://abhishek-iyer1.github.io/files/paper1.pdf)
 
-Recommended Citation: <b>Abhishek Iyer</b>, Hari Om Bansal (2021). &quot;Modelling, Simulation, and Implementation of PID Controller on Quadrotors.&quot; <i>International Conference on Computer Communications and Informatics (ICCCI)</i>. 1(1).
+Recommended Citation: 
+<b>A. Iyer</b> and H. O. Bansal, "Modelling, Simulation, and Implementation of PID Controller on Quadrotors," 2021 International Conference on Computer Communication and Informatics (ICCCI), Coimbatore, India, 2021, pp. 1-7, doi: 10.1109/ICCCI50826.2021.9402301.
+
 <!-- Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3). -->
