@@ -51,7 +51,7 @@ with 16 designers. Participants explored the coloring options more easily
 with CoColor and considered it helpful.</p>
 
 
-[Download paper here](http://abhishek-iyer1.github.io/files/paper3.pdf)
+[View paper here](http://abhishek-iyer1.github.io/files/paper3.pdf)
 
 Recommended Citation: Lena Hegemann, Niraj Dayama, <b>Abhishek Iyer</b>, Erfan Farhadi, Ekaterina Marchenko, Antti Oulasvirta. (2023). &quot;CoColor: Interactive Exploration of Color Designs.&quot; <i>ACM Conference on Intelligent User Interfaces (IUI)</i>. 1(3).
 

@@ -50,7 +50,7 @@ for emotion classification. The experimental results indicate that the proposed 
 effective and yields better performance than the compared methods for EEG-based emotion
 analysis.</p>
 
-[Download paper here](http://abhishek-iyer1.github.io/files/paper2.pdf)
+[View paper here](http://abhishek-iyer1.github.io/files/paper2.pdf)
 
 Recommended Citation: <b>Abhishek Iyer</b>, Srimit Samkit Das, Reva Teotia, Shishir Maheshwari, Rishi Raj Sharma. (2022). &quot;CNN and LSTM based ensemble learning for human emotion recognition using EEG recordings.&quot; <i>Multimedia Tools and Applications Journal</i>. 1(2).
 

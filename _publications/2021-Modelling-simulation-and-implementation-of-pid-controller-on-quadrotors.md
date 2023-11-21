@@ -47,7 +47,7 @@ configuration has been derived. Newton-Euler equations have been used to develop
 dynamic model. The simulation are carried out in MATLAB/SIMULINK environment 
 and different PID controller tuning methods have been looked into for smoother control.</p>
 
-[Download paper here](http://abhishek-iyer1.github.io/files/paper1.pdf)
+[View paper here](http://abhishek-iyer1.github.io/files/paper1.pdf)
 
 Recommended Citation: <b>Abhishek Iyer</b>, Hari Om Bansal (2021). &quot;Modelling, Simulation, and Implementation of PID Controller on Quadrotors.&quot; <i>International Conference on Computer Communications and Informatics (ICCCI)</i>. 1(1).
 <!-- Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3). -->

@@ -38,7 +38,7 @@ approach, our model is evaluated on the AAPM-Mayo Clinic Low-Dose CT Grand Chall
 state-of-the-art performance, i.e., 43.487 PSNR, 0.0067 RMSE, and 0.9861 SSIM. We believe that our work 
 will encourage more research in transformer-based architectures for medical image denoising using residual learning.</p>
 
-[Download paper here](http://abhishek-iyer1.github.io/files/paper4.pdf)
+[View paper here](http://abhishek-iyer1.github.io/files/paper4.pdf)
 
 Recommended Citation: Achleshwar Luthra*, Harsh Sulakhe*, Tanish Mittal*, <b>Abhishek Iyer</b>, Santosh Yadav. (2023). &quot;Eformer: Edge Enhancement based Transformer for Medical Image Denoising.&quot; <i>International Conference on Computer Vision (ICCV), Workshop</i>. 1(4).
 
