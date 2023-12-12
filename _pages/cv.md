@@ -8,6 +8,8 @@ redirect_from:
 ---
 View Full Resume PDF: [here](/files/resume_full.pdf) &#124; View One Pager PDF: [here](/files/resume_quick.pdf)
 
+**Note**: Please check above PDFs for the latest Resumes.
+
 {% include base_path %}
 ---
 # Education
