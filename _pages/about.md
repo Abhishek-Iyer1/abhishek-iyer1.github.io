@@ -10,18 +10,20 @@ redirect_from:
 
 **About Me**
 
-I received my B.E. degree in Electrical and Electronics Engineering from Birla Institute of Technology and Science (BITS), Pilani in 2022. I currently work as a software development engineer for Design.AI, a tech startup that aims to create an AI backed tool to aid UI/UX designers by boosting creativity and increasing efficiency. When I am not working, you will likely find me going on hikes with my dslr, playing a game of chess (usually multiple), watching Max Verstappen dominate the current F1 season, or working on a robotics passion project.
+<!-- I received my B.E. degree in Electrical and Electronics Engineering from Birla Institute of Technology and Science (BITS), Pilani in 2022. -->
+
+I am an incoming student at Carnegie Mellon University pursuing a Masters in Robotics Systems Development for Fall '24. I currently work as a research assistant at the Indian Institute of Science (IISc) with Prof. Rajiv Soundararajan on quality analysis of AI generated images using multimodal models and novel view synthesis with sparse inputs using Neural Radiance Fields (NeRFs). I was previously a software development engineer for Design.AI, a startup aiming to create an AI Assistant in Figma to aid UI/UX designers by boosting creativity and increasing efficiency. When I am not working, you will likely find me going on hikes with my dslr, playing a game of chess (usually multiple), watching Max Verstappen dominate the current F1 season, or working on a robotics passion project.
 
 **Professional Interests**
 
 I envision a society where teams of mobile robots are contributing to our wellbeing on a daily basis. From mundane tasks like last mile delivery, to more extreme applications such as aiding firefighters, environmental clean ups, disaster relief and search and rescue.
 
-To that extent, my current interests lie in the intersection of Robotics and Machine Learning. More specifically, a few focus areas that I am currently exploring are -
+To that extent, my current interests lie in the intersection of Robotics and Machine Learning. More specifically, a few focus areas that I am currently interested in -
 
 * Automation of Multi-Agent teams
-* Safe autonomy in UAVs and smart cars
-* Navigation, Mapping and Localization in mobile robots
-* 3D scene reconstructions
+* Improving multimodal capabilities of embodied agents for communication in natural language
+* Context aware path planning and navigation in an dynamic environment
+* 3D scene reconstruction and generalizable scene representations
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 

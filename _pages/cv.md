@@ -13,6 +13,47 @@ View Full Resume PDF: [here](/files/resume_full.pdf) &#124; View One Pager PDF: 
 {% include base_path %}
 ---
 # Education
+<html>
+ <head>
+    <style>
+    {
+        box-sizing: border-box;
+    }
+    /* Set additional styling options for the columns*/
+    .column {
+    float: left;
+    width: 50%;
+    }
+
+    .row:after {
+    content: "";
+    display: table;
+    clear: both;
+    }
+    </style>
+ </head>
+ <body>
+    <div class="row">
+        <div class="column" style="background-color:#ffffff;">
+            <body style="font-size: 18px"><b>Carnegie Mellon University</b></body>
+        </div>
+        <div class="column" style="background-color:#ffffff; text-align: right">
+            <body style="font-size: 18px;">Pittsburgh, Pennsylvania | 08.2024 - 05.2026</body>
+        </div>
+    </div>
+    <div class="row">
+        <div class="column" style="background-color:#ffffff;">
+          <body style="font-size: 18px;"><i>Masters in Robotics Systems Development </i></body> 
+        </div>
+    </div>
+ </body>
+</html>
+
+<!-- Carnegie Mellon University, Masters in Robotics Systems Development -->
+
+* Incoming student in the MRSD Program. Excited to work on creating fully autonomous agents, multi-agent coordination, and perception.
+
+---
 
 <html>
  <head>
