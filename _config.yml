@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Abhishek Iyer"
-  avatar           : "profile.jpg"
-  bio              : "Masters in Robotics Systems Development at CMU | RA@IISc | Ex SDE@Design.AI | Interested in everything Robotics and Machine Learning."
-  location         : "Ahmedabad, India"
+  avatar           : "profile-new.jpg"
+  bio              : "Masters in Robotics Systems Development at CMU | AirLab@CMU | Ex-RA@IISc | Interested in everything Robotics and Machine Learning."
+  location         : "Pittsburgh, PA, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=uZxpaXIAAAAJ&hl=en"

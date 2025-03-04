@@ -1,6 +1,6 @@
 ---
-title: "Design.AI - Ensuring brand consistency"
-excerpt: "While at Design.AI, I was one of the core developers on making a multi platform AI backed tool to assist businesses in digitizing their brand guidelines and providing all designers instant evaluation on their designs with respect to the company's brand guidelines. We also digitized Google's Material Design 3 design system used by most freelancers. The plugin also offered suggestions for fixing violated guidelines, in addition to evaluating and fixing a few of the WCAG accessibility guidelines. Additionally, we provided a custom dashboard for managers to track team progress, improvement in efficiency, and business expenses saved. We further partnered with leading companies such as H&M and Kone to gain insights from their design teams on the Beta version of the tool. <br/><img src='/images/designai_features.png'>"
+title: "Smores - Searching while modelling perceptually degraded environments for time critical rescues"
+excerpt: "I am currently leading the Smores project at the AirLab at Carnegie Mellon University. Our focus is to perform real-time mapping and 3D reconstruction of indoor environments with dense smoke so we can provide critical information to first responders like firefighters. Additionally, we are building a drone which will be able to navigate autonomously in addition to mapping and displaying Points of Interests (PoIs) like humans, open doors, active fires to the ground control station in real-time with limited computing power. <br/><img src='/images/depth_estimation.png'>"
 collection: portfolio
 ---
  
@@ -14,7 +14,7 @@ collection: portfolio
 </style>
 
 <div style="width: 70%; height: 70%; padding-top: 20px; padding-bottom: 20px; margin-left: 7.5vw;">
-    <iframe width="1051" height="591" src="https://www.youtube.com/embed/DX_AdrazHKE?autoplay=1&mute=1" title="Design.AI Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="1052" height="631" src="https://www.youtube.com/embed/UC5mCCvOfWg?autoplay=1&mute=1" title="Smores - Integrated Depth Estimation Pipeline" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 <p class="special">Ensuring consistency in brand image and levels of accessibility can become an inefficient task with a lot of iteration over designs and wasted designer time in pixel pushing. Design.AI was created as a tool to combat these issues, allowing designers to spend their time on making creative decisions rather than tedious labour like making pixel perfect designs or reading extensive guidelines about their employer's brand image.</p>
