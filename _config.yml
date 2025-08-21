@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Abhishek Iyer"
   avatar : "/assets/images/profile-pic.jpg"
-  bio    : 'Masters in Robotics Systems Development at CMU | AirLab@CMU | Ex-RA@IISc | Interested in everything Robotics and Machine Learning.'
+  bio    : "Masters in Robotics Systems Development at CMU I AirLab@CMU I Ex-RA@IISc I Interested in everything Robotics and Machine Learning."
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
