@@ -70,7 +70,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Abhishek-Iyer1"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-google-scholar"
       url: "https://scholar.google.com/citations?user=uZxpaXIAAAAJ&hl=en"
     - label: "Capstone Website"
       icon: "fas fa-fw fa-link"
