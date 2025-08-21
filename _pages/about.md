@@ -15,7 +15,7 @@ When I am not working, you will likely find me doing street photography, travell
 
 I envision a society where teams of mobile robots are contributing to our well-being on a daily basis. From mundane tasks like last mile delivery, to more extreme applications such as aiding firefighters, environmental clean ups, disaster relief and search and rescue.
 
-To that extent, my current interests lie in the intersection of Perception and Machine Learning. More specifically, a few focus areas that I am currently interested in -
+To that extent, my current interests lie in the intersection of Robotics and Deep Learning. More specifically, a few focus areas that I am currently interested in -
 
 * Shared perception, scene understanding, 3D reconstruction across a team of agents
 * Context aware path planning and navigation in an dynamic environment
