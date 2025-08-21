@@ -1,6 +1,6 @@
 main:
   - title: "About"
-    url: /about/
+    url: /
   - title: "Portfolio"
     url: /portfolio/
   - title: "Robotics Wiki"
