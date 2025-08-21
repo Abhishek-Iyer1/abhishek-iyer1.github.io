@@ -2,6 +2,7 @@
 permalink: /
 layout: single
 title: "About"
+classes: wide
 ---
 
 <!-- I received my B.E. degree in Electrical and Electronics Engineering from Birla Institute of Technology and Science (BITS), Pilani in 2022. -->
