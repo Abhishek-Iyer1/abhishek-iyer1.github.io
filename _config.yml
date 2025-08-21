@@ -58,13 +58,13 @@ plugins:
 author:
   name   : "Abhishek Iyer"
   avatar : "/assets/images/profile-photo.webp"
-  bio    : "Masters in Robotics Systems Development at CMU | AirLab@CMU | Ex-RA@IISc | Interested in everything Robotics and Machine Learning."
+  bio    : "Masters in Robotics Systems Development at CMU &#124 AirLab@CMU &#124 Ex-RA@IISc &#124 Interested in everything Robotics and Machine Learning."
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/abhishek-iyer-87229b207"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
