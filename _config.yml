@@ -75,6 +75,9 @@ author:
     - label: "Capstone Website"
       icon: "fas fa-fw fa-link"
       url: "https://mrsdprojects.ri.cmu.edu/2025teamg/"
+    - label: "Resume"
+      icon: "fas fa-fw fa-link"
+      url: "https://drive.google.com/file/d/1xN4CPjyl-l3SFFT_wF1Gew7uTR4GKUTr/view?usp=sharing"
 
 # footer:
 #   links:
