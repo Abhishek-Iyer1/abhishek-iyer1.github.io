@@ -21,4 +21,4 @@ To that extent, my current interests lie in the intersection of Robotics and Dee
 * Context aware path planning and navigation in an dynamic environment
 * Leveraging reinforcement learning to overcome data bottlenecks to enable deployment at scale
 
-**Resume:** [One Pager](https://drive.google.com/file/d/1xN4CPjyl-l3SFFT_wF1Gew7uTR4GKUTr/view?usp=sharing)
+**Resume:** [One Pager](https://drive.google.com/file/d/1AOS33o4P1vP1VLGZciXoO4DLHPue0vuS/view?usp=sharing)
