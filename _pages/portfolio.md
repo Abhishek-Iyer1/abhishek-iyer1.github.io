@@ -5,3 +5,5 @@ permalink: /portfolio/
 collection: portfolio
 entries_layout: list
 ---
+
+![Trial](../assets/images/abhishek_with_drone.png)
