@@ -1,5 +1,5 @@
 ---
-title: "Foo Bar Identity"
+title: "Capstone project - Smores"
 excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
 ---
 
